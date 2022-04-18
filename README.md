@@ -1,10 +1,17 @@
-# Resumo do projeto
+### 📚 Sobre
+
 Criando e testando um site com o efeito Parallax.
 
-## 🔨 Funcionalidades do projeto
+### 🎨 Detalhe
+
 Demonstrativo de um site com o efeito parallax.
 
-## ✔️ Técnicas e tecnologias utilizadas
+<hr>
 
-- ``HMTL``
-- ``Sublime Text``
+### 💻 Tecnologias utilizadas
+
+Neste site foram utilizado as seguintes tecnologias
+
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+- [Sublime Text](https://www.sublimetext.com/)
